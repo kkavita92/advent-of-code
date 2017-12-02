@@ -1,0 +1,3 @@
+def checksum(spreadsheet)
+  
+end
