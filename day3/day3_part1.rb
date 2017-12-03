@@ -50,6 +50,3 @@ end
 def calculate_distance(start_point, end_point)
   (start_point[0] - end_point[0]).abs + (start_point[1] - end_point[1]).abs
 end
-
-p position(37)
-p calculate_distance([0,0], [301, 25])
