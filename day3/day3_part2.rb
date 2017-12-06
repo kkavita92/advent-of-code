@@ -1,10 +1,15 @@
-# Taken from gchan - needs to be looked at!
+# Solved without code - using integer sequencing
+# Code solution taken from gchan - needs to be looked at!
+# Identified bug for number less than 17
 
-target = 361527
+target = 16
 dimension = Math.sqrt(target).ceil
 
-grid = Array.new(dimension) { Array.new(dimension) }
+grid = Array.new(dimension) { Array.new(dimension) } # creates grid of nil values
+
+
 start = dimension / 2
+p start
 x = y = start
 
 dirs = [:right, :up, :left, :down]
@@ -32,6 +37,7 @@ target.times do |i|
     .compact
     .inject(:+)
 
+  puts value
   value ||= 1
   grid[y][x] = value
 
