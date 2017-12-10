@@ -18,4 +18,4 @@ list = (0..255).to_a
   end
 end
 
-puts list.each_slice(16).map { |l| l.inject(:^).to_s(16).rjust(2, '0') }.join
+puts list.each_slice(16).map { |hash| hash.reduce(:^).to_s(16).rjust(2, '0') }.join
