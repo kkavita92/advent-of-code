@@ -12,3 +12,4 @@
 10. [Day 10: Knot Hash](day10)
 11. [Day 11: Hex Ed](day11)
 12. [Day 12: Digital Plumber](day12)
+13. [Day 13: Packet Scanners](day13)
