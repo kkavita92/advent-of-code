@@ -13,3 +13,5 @@
 11. [Day 11: Hex Ed](day11)
 12. [Day 12: Digital Plumber](day12)
 13. [Day 13: Packet Scanners](day13)
+14.
+15. [Day 15: Dueling Generators](day15)
