@@ -7,7 +7,7 @@
 5. [Day 5: A Maze of Twisty Trampolines, All Alike](day5)
 6. [Day 6: Memory Reallocation](day6)
 7. [Day 7: Recursive Circus](day7)
-8.
+8. [Day 8: I Heard You Like Registers](day8)
 9.
 10. [Day 10: Knot Hash](day10)
 11. [Day 11: Hex Ed](day11)
@@ -15,3 +15,4 @@
 13. [Day 13: Packet Scanners](day13)
 14.
 15. [Day 15: Dueling Generators](day15)
+18. 
